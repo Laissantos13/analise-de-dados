@@ -1,10 +1,10 @@
 # Portifólio Análise de Dados
 
-#Problema de Negócio
+## Problema de negócio
 
 # Contexto
 
-#Premissas de Analise 
+## Premissas de Análise  
 
 # Estratégia da solução
 
