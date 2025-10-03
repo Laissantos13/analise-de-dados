@@ -2,11 +2,11 @@
 
 ## Problema de negócio
 
-# Contexto
+## Contexto
 
 ## Premissas de Análise  
 
-# Estratégia da solução
+## Estratégia da solução
 
 ## Passo 1: Resumir o contexto em uma pergunta aberta
 
